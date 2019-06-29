@@ -1,0 +1,5 @@
+Build using `go build main.go`
+
+Run using `./main -file=<PATH_TO_CSV>`
+
+`problems.csv` is configured to be the given CSV file by default.
